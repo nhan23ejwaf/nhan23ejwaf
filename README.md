@@ -18,8 +18,5 @@ My name is nhan .i'm beginner :))) .<br>
 </a>
 
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
